@@ -20,7 +20,7 @@ Data Schema (Field & Description):
     - label: tags to indicate dangerous driving trip (0: Normal trip / 1: Dangerous trip)  
 
 The dataset could be downloaded from the link: 
-https://1drv.ms/u/s!AlAZTiEu2oI4gXv3UZvJZmYC12Qf?e=75JBMg
+https://1drv.ms/u/s!AlAZTiEu2oI4gXxuDXofUxNfjVNw?e=F0qZ5l
 
 # Problem Statements:
 
