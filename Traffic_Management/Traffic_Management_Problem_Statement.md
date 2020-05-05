@@ -7,6 +7,9 @@ Data Schema (Field & Description):
     - timestamp: start time of 15-minute intervals in the following format: <hour>:<minute>, where hour ranges from 0 to 23 and minute is either one of (0, 15, 30, 45)
     - demand: aggregated demand normalised to be in the range [0,1]
 
+The dataset could be downloaded from the link: 
+https://1drv.ms/u/s!AlAZTiEu2oI4gX1Zz3jpMwoQj9rO?e=Z9QqYb
+
 # Problem Statements:
  
 The challenge targets to improve the traffic condition for road network in Southeast Asia by leveraging Grab booking demand data, which hinders mobility and economic growth. Problem statements including:
