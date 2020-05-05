@@ -19,8 +19,8 @@ Complete the foundation modules on Microsoft Learn below. These will cover core 
 
 Choose one of the following Future Ready Skills Challenges, using Grab’s datasets on Azure Notebooks.
 
-1. Safety
-2. Traffic Management
+1. Safety (https://github.com/yingjia-liu/Msft-Grab-FRS/tree/master/Safety)
+2. Traffic Management (https://github.com/yingjia-liu/Msft-Grab-FRS/tree/master/Traffic_Management)
 
 Clone the GitHub Repositories and complete your solution in Azure Notebooks.
 
