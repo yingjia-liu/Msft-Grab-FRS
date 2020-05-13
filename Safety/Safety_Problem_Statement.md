@@ -19,8 +19,7 @@ Data Schema (Field & Description):
     - speed: speed measured by GPS in m/s
     - label: tags to indicate dangerous driving trip (0: Normal trip / 1: Dangerous trip)  
 
-The dataset could be downloaded from the link: 
-https://1drv.ms/u/s!AlAZTiEu2oI4gXxuDXofUxNfjVNw?e=F0qZ5l
+The dataset can be downloaded here: [labels (300KB CVS file)](https://msftgrab.z23.web.core.windows.net/safety/labels/part-00000-e9445087-aa0a-433b-a7f6-7f4c19d78ad6-c000.csv) and [features (ten 190MB CSV files)](https://msftgrab.z23.web.core.windows.net/safety/features/index.html)
 
 # Problem Statements:
 

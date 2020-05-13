@@ -7,8 +7,7 @@ Data Schema (Field & Description):
     - timestamp: start time of 15-minute intervals in the following format: <hour>:<minute>, where hour ranges from 0 to 23 and minute is either one of (0, 15, 30, 45)
     - demand: aggregated demand normalised to be in the range [0,1]
 
-The dataset could be downloaded from the link: 
-https://1drv.ms/u/s!AlAZTiEu2oI4gX1Zz3jpMwoQj9rO?e=Z9QqYb
+The dataset can be downloaded [here (140MB CSV file)](https://msftgrab.z23.web.core.windows.net/traffic/training.csv).
 
 # Problem Statements:
  
