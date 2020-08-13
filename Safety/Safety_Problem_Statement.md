@@ -22,10 +22,7 @@ Data Schema (Field & Description):
 The dataset can be downloaded here: [labels (300KB CVS file)](https://msftgrab.z23.web.core.windows.net/safety/labels/part-00000-e9445087-aa0a-433b-a7f6-7f4c19d78ad6-c000.csv) and [features (ten 190MB CSV files)](https://msftgrab.z23.web.core.windows.net/safety/features/index.html)
 
 # Feature Engineering Ideas
-What acceleration and gyroscope means:
-The acceleration features are more representative of the driver's behaviour (Z - vehicle bouncing, X - braking/ acceleration, Y - turning speed).
-
-image
+The acceleration and gyroscope features are representative of the driver's behaviour (Z - vehicle bouncing, X - braking/ acceleration, Y - turning speed) with correction process, lateral, longitudinal and vertical movements of vehicle could be derived with these features. 
 
 Here lists some ideas for feature engineering processes:
 1. Consider feature distance with speed & second
