@@ -49,7 +49,7 @@ Also have a look at this [introduction to machine learning with Python and Azure
 # Submission
 The students are expected to submit the following:
 1. Your script: Either make your Azure Notebook public and share the URL in the Microsoft Teams channel or add us as collaborator to your Github repository containing the solution.
-2. Either a reports or ppt slides (less than 50 pages) contains but not limit to your business understandings, data insights findings, feature engineering ideas, model selection strategies, conclustions and recommendations, etc.
+2. Either a report or ppt slides (less than 50 pages) contains but not limit to your business understandings, data insights findings, feature engineering ideas, model selection strategies, conclustions and recommendations, etc.
 
 
 # Scoring Criteria
