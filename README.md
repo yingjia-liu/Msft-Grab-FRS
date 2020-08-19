@@ -46,11 +46,19 @@ Azure Notebooks is a free and Microsoft hosted Jupyter Notebook service. It allo
 Also have a look at this [introduction to machine learning with Python and Azure Notebooks](https://docs.microsoft.com/en-us/learn/paths/intro-to-ml-with-python/).
 
 
-
-
 # Submission
+The students are expected to submit the following:
+1. Your script: Either make your Azure Notebook public and share the URL in the Microsoft Teams channel or add us as collaborator to your Github repository containing the solution.
+2. Either a reports or ppt slides (less than 50 pages) contains but not limit to your business understandings, data insights findings, feature engineering ideas, model selection strategies, conclustions and recommendations, etc.
 
-Either make your Azure Notebook public and share the URL in the Microsoft Teams channel or add us as collaborator to your Github repository containing the solution.
+
+# Scoring Criteria
+1. Data Insights (20%)
+2. Feature Engineering (20%)
+3. ML Model (20%)
+4. Parameter Tuning (20%)
+5. Readability (20%)
+
 
 Good luck  😃
 
