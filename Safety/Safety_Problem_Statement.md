@@ -21,8 +21,7 @@ Data Schema (Field & Description):
 
 The dataset can be downloaded here: [labels (300KB CVS file)](https://msftgrab.z23.web.core.windows.net/safety/labels/part-00000-e9445087-aa0a-433b-a7f6-7f4c19d78ad6-c000.csv) and [features (ten 190MB CSV files)](https://msftgrab.z23.web.core.windows.net/safety/features/index.html)
 
-To simplify the data pre-processing process, the aggregated dataset containing features and labels can be downloaded here: 
-Safety_DataSet_Aggregated (674MB Zip file)
+To simplify the data pre-processing process, the aggregated dataset containing features and labels can be downloaded here: [Safety_DataSet_Aggregated (674MB zip file)](https://msftgrab.z23.web.core.windows.net/safety/Safety_DataSet_Aggregated.zip)
 
 
 # Feature Engineering Ideas
