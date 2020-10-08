@@ -1,13 +1,13 @@
-## Introduction
+# Introduction
 
 Dear students, this document target to be the Q & A panel for all questions raised to Grab & Microsoft data science supporting team. 
 During the check-in session on 1st October, the most common questions have been answered and listed below. 
 If you have and other questions, please add it below following the format template:
 - Qx: TBC [Submitter] [Date]
 
-## Topics: 
+# Topics: 
 
-# Traffic Management
+## Traffic Management
 
 Q1: What does the actual term for the 'demand' column? (as it's in a normalized form)
 A1: The demand is normalized into scale of [0,1]. It indicates how many trips requested by passengers generated in this geospatial zone (geohash level 6) at certain time period
@@ -22,7 +22,7 @@ Q4: Which country is the 'timestamp' column referring to? Based in Singapore? Or
 A4: The timezone will not affect model building and performance, so to simplify, we may consider it as based in SG. 
 The purpose of 'timestamp' is to cut the demand into 15 min interval time for the participants to identify the travel pattern change over the time.
 
-# Safety
+## Safety
 
 Q1: There are some duplicate data: Over unique booking 20000, 18 are duplicated. How should we handle these records?
 A1: Checking whether there are duplicate records is a part of data cleaning step. If the label is incorrect, it's recommended to delete the records. 
