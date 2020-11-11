@@ -60,6 +60,9 @@ The students are expected to submit the following:
 4. Parameter Tuning (20%)
 5. Readability (20%)
 
+# ML Tutorial Link
+If you would like to conduct self-paced training to have deeper understand on traning machine learning models, please refer to this link ->
+https://github.com/yingjia-liu/Msft-Grab-FRS/tree/master/ML-Model-Tutorials
 
 Good Luck 😃
 
